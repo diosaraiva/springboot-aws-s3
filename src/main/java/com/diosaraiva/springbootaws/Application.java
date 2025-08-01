@@ -1,4 +1,4 @@
-package com.diogo.springaws;
+package com.diosaraiva.springbootaws;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

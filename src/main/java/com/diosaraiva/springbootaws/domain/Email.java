@@ -1,4 +1,4 @@
-package com.diogo.springaws.domain;
+package com.diosaraiva.springbootaws.domain;
 
 import java.io.Serializable;
 

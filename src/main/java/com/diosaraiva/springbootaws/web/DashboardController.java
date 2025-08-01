@@ -1,4 +1,4 @@
-package com.diogo.springaws.web;
+package com.diosaraiva.springbootaws.web;
 
 import javax.annotation.PostConstruct;
 
